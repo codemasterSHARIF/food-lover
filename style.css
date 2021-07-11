@@ -1,0 +1,77 @@
+.body{
+    font-family: 'Merriweather', serif;
+    padding: 0%;
+}
+
+.header1{
+    display: flex;
+    margin-bottom: 7%;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 90%;
+    padding-top: 0%;
+}
+.eat{
+    font-size: 300%;
+}
+.top-margin{
+    margin-top: 15%;
+    margin-left: 5%;
+}
+.imagine{
+    font-size: 130%;
+}
+.food-lover{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 40px;
+    border-radius: 10%;
+    font-weight: 800;
+    color: black;
+    border: rgb(71, 1, 71) 5px solid;
+}
+.background-image-add{
+    background-image: url(images/Frame\ 58.jpg);
+    padding: 5%;
+}
+.recipe{
+    text-align: center;
+    margin-bottom: 7%;
+}
+.my-recipes-color{
+    color: gray;
+}
+.three-pic-recipe{
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-bottom: 6%;
+    padding-top: 3%;
+    border-radius: 10%;
+    border: green 5px solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px greenyellow ;
+}
+.followers{
+    border-radius: 15%;
+    box-shadow: 10px 10px 40px black;
+    padding-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.footer{
+    background-color: black;
+    color: orangered;
+    margin-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 4%;
+    padding-bottom: 6%;
+    text-align: center;
+}
